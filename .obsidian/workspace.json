@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "841ac78e0e693afb",
+    "type": "split",
+    "children": [
+      {
+        "id": "24536974fba04e3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04603f2ff444ce4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Вопросы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7103340719056a00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Чистый код/Модульные тесты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9afaf246ef668fcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Чистый код/Классы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69a7a186d2d6e022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Чистый код/Классы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2698c17bebafe31c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Чистый код/Системы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3559ce6cccc4fb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Чистый код/Формировани архитектуры.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81f8da0e860c9c84",
+    "type": "split",
+    "children": [
+      {
+        "id": "e288f74f83939203",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d20db937a81f6ad1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "465e37537cc4c4a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8be71a69f23d1b3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5
+  },
+  "right": {
+    "id": "5f85e52e6a15ecce",
+    "type": "split",
+    "children": [
+      {
+        "id": "34dd0c8c7d7bf944",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14ed45186b7b345f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Вопросы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3aea5f0b3227d8a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Вопросы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb3fd487d4521bd5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4c25b4802cf79a79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Вопросы.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "publish:Публикация изменений": false
+    }
+  },
+  "active": "04603f2ff444ce4b",
+  "lastOpenFiles": [
+    "принципа откртытости и закрытости.md",
+    "Вопросы.md",
+    "Без названия.canvas",
+    "Общие понятия/GIT/Создание репозитория.md",
+    "Общие понятия/GIT/Создания shh key.md",
+    "Общие понятия/GIT/Запись  изменений в репозиторий.md",
+    "Книги/Чистый код/Многопоточность.md",
+    "Книги/Чистый код/Формировани архитектуры.md",
+    "Общие понятия/Solid/Принцип обращения зависимостей.md",
+    "Книги/Чистый код/Системы.md",
+    "Общие понятия/Без названия.md",
+    "Общие понятия/АОП",
+    "Книги/Чистый код/Классы.md",
+    "Общие понятия/Solid/Принцип открытости-закрытости.md",
+    "Общие понятия/ООП/Инкапсуляция.md",
+    "Общие понятия/ООП/Абстракция.md",
+    "Общие понятия/Solid/Принцип единой отвественности.md",
+    "Книги/Чистый код/Функции.md",
+    "Книги/Чистый код/Форматирование.md",
+    "Книги/Чистый код/Структуры данных.md",
+    "Книги/Чистый код/Обработка ошибок.md",
+    "Книги/Чистый код/Комментарии.md",
+    "Книги/Чистый код/Каким должен быть чистый код.md",
+    "Книги/Чистый код/Имена, переменные.md",
+    "Книги/Чистый код/Объекты.md",
+    "Книги/Чистый код/Модульные тесты.md",
+    "Общие понятия/ООП",
+    "Остальное/Шаблоны/Структура.md",
+    "Книги/Чистый код/Инсайды.md",
+    "Без названия",
+    "images/Pasted image 20230322123203.png",
+    "images",
+    "Общие понятия/GIT",
+    "Остальное/Шаблоны",
+    "Остальное",
+    "Общие понятия/Solid",
+    "Общие понятия",
+    "Книги/Чистый код",
+    "python ssdfasdfasfd/Без названия.canvas"
+  ]
+}
