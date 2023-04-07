@@ -8,27 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "04603f2ff444ce4b",
+            "id": "7103340719056a00",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d4e8b925e2ba43ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы.md",
+                "file": "Общие понятия/GIT/Ветвление в Git.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7103340719056a00",
+            "id": "0385f1c6211efa1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Книги/Чистый код/Модульные тесты.md",
+                "file": "Общие понятия/GIT/Ветвление в Git.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "3cf75213bf169494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Фреймворки/Django/Модель.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88ca3d5e1ee70ae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Фреймворки/Django/Модель.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aac91abd06415d49",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -79,7 +119,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -129,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 200
   },
   "right": {
     "id": "5f85e52e6a15ecce",
@@ -145,7 +186,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вопросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +202,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вопросы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,16 +223,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Вопросы.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -207,15 +245,24 @@
       "publish:Публикация изменений": false
     }
   },
-  "active": "04603f2ff444ce4b",
+  "active": "aac91abd06415d49",
   "lastOpenFiles": [
-    "принципа откртытости и закрытости.md",
+    "Фреймворки/Pillow/Pillow.md",
+    "Фреймворки/Django/Модель.md",
+    "Фреймворки/Pillow",
+    "Фреймворки/Django/Без названия.md",
+    "Общие понятия/GIT/Ветвление в Git.md",
+    "Фреймворки/Django",
+    "Фреймворки",
+    "images/Pasted image 20230330022728.png",
+    "Общие понятия/GIT/Запись  изменений в репозиторий.md",
+    "Общие понятия/GIT/Что такое git.md",
+    "Книги/Чистый код/Многопоточность.md",
     "Вопросы.md",
+    "принципа откртытости и закрытости.md",
     "Без названия.canvas",
     "Общие понятия/GIT/Создание репозитория.md",
     "Общие понятия/GIT/Создания shh key.md",
-    "Общие понятия/GIT/Запись  изменений в репозиторий.md",
-    "Книги/Чистый код/Многопоточность.md",
     "Книги/Чистый код/Формировани архитектуры.md",
     "Общие понятия/Solid/Принцип обращения зависимостей.md",
     "Книги/Чистый код/Системы.md",
@@ -232,21 +279,13 @@
     "Книги/Чистый код/Обработка ошибок.md",
     "Книги/Чистый код/Комментарии.md",
     "Книги/Чистый код/Каким должен быть чистый код.md",
-    "Книги/Чистый код/Имена, переменные.md",
-    "Книги/Чистый код/Объекты.md",
-    "Книги/Чистый код/Модульные тесты.md",
     "Общие понятия/ООП",
-    "Остальное/Шаблоны/Структура.md",
-    "Книги/Чистый код/Инсайды.md",
-    "Без названия",
     "images/Pasted image 20230322123203.png",
     "images",
     "Общие понятия/GIT",
     "Остальное/Шаблоны",
     "Остальное",
     "Общие понятия/Solid",
-    "Общие понятия",
-    "Книги/Чистый код",
     "python ssdfasdfasfd/Без названия.canvas"
   ]
 }
