@@ -1,4 +1,5 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "python ssdfasdfasfd"
+  "attachmentFolderPath": "python ssdfasdfasfd",
+  "alwaysUpdateLinks": true
 }

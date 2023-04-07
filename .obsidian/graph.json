@@ -3,20 +3,35 @@
   "search": "",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "программирование",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -1.4,
-  "nodeSizeMultiplier": 1.4475,
-  "lineSizeMultiplier": 0.52875,
+  "textFadeMultiplier": 0.3,
+  "nodeSizeMultiplier": 2.52408040364583,
+  "lineSizeMultiplier": 1.58140462239583,
   "collapse-forces": false,
-  "centerStrength": 0.229166666666667,
-  "repelStrength": 8.75,
-  "linkStrength": 1,
-  "linkDistance": 116,
-  "scale": 0.968161955418552,
-  "close": true
+  "centerStrength": 0.304361979166667,
+  "repelStrength": 20,
+  "linkStrength": 0.243408203125,
+  "linkDistance": 500,
+  "scale": 0.041140491126294365,
+  "close": false
 }
