@@ -1,4 +1,12 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "python ssdfasdfasfd"
+  "attachmentFolderPath": "images",
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "ru",
+    "en"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Необработанное"
 }

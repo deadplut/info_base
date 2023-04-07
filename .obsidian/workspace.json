@@ -4,123 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "24536974fba04e3c",
+        "id": "92e67fa2732f4a7c",
         "type": "tabs",
         "children": [
           {
-            "id": "7103340719056a00",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d4e8b925e2ba43ec",
+            "id": "bc6fcdffa87ae9e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Общие понятия/GIT/Ветвление в Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0385f1c6211efa1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Общие понятия/GIT/Ветвление в Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cf75213bf169494",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Фреймворки/Django/Модель.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88ca3d5e1ee70ae9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Фреймворки/Django/Модель.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aac91abd06415d49",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "9afaf246ef668fcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Книги/Чистый код/Классы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69a7a186d2d6e022",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Книги/Чистый код/Классы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2698c17bebafe31c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Книги/Чистый код/Системы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3559ce6cccc4fb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Книги/Чистый код/Формировани архитектуры.md",
+                "file": "Языки/Python/Полиморфизм.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 474.5
   },
   "right": {
     "id": "5f85e52e6a15ecce",
@@ -186,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Языки/Python/Полиморфизм.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Языки/Python/Полиморфизм.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Языки/Python/Полиморфизм.md"
+              }
             }
           }
         ],
@@ -242,15 +145,29 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "publish:Публикация изменений": false
+      "publish:Публикация изменений": false,
+      "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "aac91abd06415d49",
+  "active": "bc6fcdffa87ae9e1",
   "lastOpenFiles": [
-    "Фреймворки/Pillow/Pillow.md",
+    "Книги/Чистый код/Структуры данных.md",
+    "Языки/Python/декораторы.md",
+    "Книги/Чистый код/Форматирование.md",
+    "Языки/Python/Аннотации функций.md",
+    "Необработанное/2023-04-08.md",
     "Фреймворки/Django/Модель.md",
-    "Фреймворки/Pillow",
+    "Фреймворки/Pillow/Pillow.md",
     "Фреймворки/Django/Без названия.md",
+    "Языки/Python/Аргументы функции.md",
+    "Языки/Python/Имена переменные.md",
+    "Языки/Python",
+    "Языки",
+    "Книги/Чистый код/Формировани архитектуры.md",
+    "Книги/Чистый код/Системы.md",
+    "Книги/Чистый код/Классы.md",
+    "Языки/Python/Оператор сравнения и _is_.md",
+    "Фреймворки/Pillow",
     "Общие понятия/GIT/Ветвление в Git.md",
     "Фреймворки/Django",
     "Фреймворки",
@@ -263,29 +180,16 @@
     "Без названия.canvas",
     "Общие понятия/GIT/Создание репозитория.md",
     "Общие понятия/GIT/Создания shh key.md",
-    "Книги/Чистый код/Формировани архитектуры.md",
     "Общие понятия/Solid/Принцип обращения зависимостей.md",
-    "Книги/Чистый код/Системы.md",
     "Общие понятия/Без названия.md",
     "Общие понятия/АОП",
-    "Книги/Чистый код/Классы.md",
     "Общие понятия/Solid/Принцип открытости-закрытости.md",
     "Общие понятия/ООП/Инкапсуляция.md",
-    "Общие понятия/ООП/Абстракция.md",
-    "Общие понятия/Solid/Принцип единой отвественности.md",
-    "Книги/Чистый код/Функции.md",
-    "Книги/Чистый код/Форматирование.md",
-    "Книги/Чистый код/Структуры данных.md",
-    "Книги/Чистый код/Обработка ошибок.md",
-    "Книги/Чистый код/Комментарии.md",
-    "Книги/Чистый код/Каким должен быть чистый код.md",
     "Общие понятия/ООП",
     "images/Pasted image 20230322123203.png",
     "images",
     "Общие понятия/GIT",
     "Остальное/Шаблоны",
-    "Остальное",
-    "Общие понятия/Solid",
     "python ssdfasdfasfd/Без названия.canvas"
   ]
 }

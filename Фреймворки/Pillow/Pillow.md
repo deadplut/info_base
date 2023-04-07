@@ -13,4 +13,4 @@
 ##### Ссылки
 https://habr.com/en/post/530800/comments/
 ##### Тэги
-#pillow
+#pillow #python #фреймворк
