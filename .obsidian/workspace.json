@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc6fcdffa87ae9e1",
+            "id": "e827c904907e0b9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Python/Функция filter().md",
+                "file": "Языки/Python/Имена переменные.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Языки/Python/Функция filter().md",
+                "file": "Языки/Python/Имена переменные.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Языки/Python/Функция filter().md",
+                "file": "Языки/Python/Имена переменные.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Языки/Python/Функция filter().md"
+                "file": "Языки/Python/Имена переменные.md"
               }
             }
           }
@@ -149,8 +149,15 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "bc6fcdffa87ae9e1",
+  "active": "e827c904907e0b9f",
   "lastOpenFiles": [
+    "Необработанное/Переменные.md",
+    "Языки/Python/Имена переменные.md",
+    "Необработанное/2023-04-08.md",
+    "Языки/Python/Frozenset.md",
+    "Языки/Python/Встроенные типы данных.md",
+    "Языки/Python/Функция filter().md",
+    "Языки/Python/Множества.md",
     "Языки/Python/Аннотации функций.md",
     "Общие понятия/ООП/Полиморфизм.md",
     "Языки/Python/Итерация.md",
@@ -161,12 +168,10 @@
     "Книги/Чистый код/Обработка ошибок.md",
     "Книги/Чистый код/Структуры данных.md",
     "Книги/Чистый код/Форматирование.md",
-    "Необработанное/2023-04-08.md",
     "Фреймворки/Django/Модель.md",
     "Фреймворки/Pillow/Pillow.md",
     "Фреймворки/Django/Без названия.md",
     "Языки/Python/Аргументы функции.md",
-    "Языки/Python/Имена переменные.md",
     "Языки/Python",
     "Языки",
     "Книги/Чистый код/Системы.md",
@@ -178,12 +183,7 @@
     "Фреймворки",
     "images/Pasted image 20230330022728.png",
     "Общие понятия/GIT/Запись  изменений в репозиторий.md",
-    "Общие понятия/GIT/Что такое git.md",
-    "Книги/Чистый код/Многопоточность.md",
-    "Вопросы.md",
-    "принципа откртытости и закрытости.md",
     "Без названия.canvas",
-    "Общие понятия/GIT/Создания shh key.md",
     "Общие понятия/АОП",
     "Общие понятия/ООП",
     "images/Pasted image 20230322123203.png",
