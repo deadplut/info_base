@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Общие понятия/Алгебра логики.md",
+                "file": "Общие понятия/Алгебра логики/Алгебра логики.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 474.5
+    "width": 200
   },
   "right": {
     "id": "5f85e52e6a15ecce",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Общие понятия/Алгебра логики.md",
+                "file": "Общие понятия/Алгебра логики/Алгебра логики.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Общие понятия/Алгебра логики.md",
+                "file": "Общие понятия/Алгебра логики/Алгебра логики.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Общие понятия/Алгебра логики.md"
+                "file": "Общие понятия/Алгебра логики/Алгебра логики.md"
               }
             }
           }
@@ -164,8 +164,9 @@
   },
   "active": "f40de0649e9daa83",
   "lastOpenFiles": [
+    "Общие понятия/Алгебра логики",
     "Языки/Python/Функция filter().md",
-    "Общие понятия/Алгебра логики.md",
+    "Общие понятия/Алгебра логики/Алгебра логики.md",
     "Языки/Python/Множества.md",
     "Языки/Python/Frozenset.md",
     "Языки/Python/Аннотации функций.md",
@@ -195,7 +196,6 @@
     "Фреймворки",
     "images/Pasted image 20230330022728.png",
     "Общие понятия/GIT/Запись  изменений в репозиторий.md",
-    "Общие понятия/GIT/Что такое git.md",
     "Без названия.canvas",
     "Общие понятия/АОП",
     "Общие понятия/ООП",
