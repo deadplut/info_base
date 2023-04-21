@@ -71,8 +71,12 @@
             "id": "2e5a57ad1e0df5c9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Фреймворки/Django/Без названия.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -142,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Фреймворки/Django/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Фреймворки/Django/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Фреймворки/Django/Без названия.md"
+              }
             }
           }
         ],
@@ -204,6 +212,9 @@
   },
   "active": "2e5a57ad1e0df5c9",
   "lastOpenFiles": [
+    "Фреймворки/Django/Модель.md",
+    "Фреймворки/Django/Без названия.md",
+    "Необработанное/Без названия.md",
     "Языки/Python/Фабричный метод.md",
     "Книги/Чистый код/Имена, переменные.md",
     "Общие понятия/Solid/Принцип обращения зависимостей.md",
@@ -230,9 +241,6 @@
     "Языки/Python/Множества.md",
     "Языки/Python/Frozenset.md",
     "Общие понятия/ООП/Полиморфизм.md",
-    "Языки/Python/Итерация.md",
-    "Языки/Python/yield.md",
-    "Общие понятия/GIT/Создание репозитория.md",
     "Языки/Python",
     "Языки",
     "Фреймворки/Pillow",
