@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Python/nonlocal.md",
+                "file": "Языки/Python/Встроенные типы данных.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Функции",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Языки/Python/nonlocal.md",
+                "file": "Языки/Python/Встроенные типы данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Языки/Python/nonlocal.md",
+                "file": "Языки/Python/Встроенные типы данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Языки/Python/nonlocal.md"
+                "file": "Языки/Python/Встроенные типы данных.md"
               }
             }
           }
@@ -212,13 +213,24 @@
   },
   "active": "2e5a57ad1e0df5c9",
   "lastOpenFiles": [
+    "Языки/Python/Объект в Python.md",
+    "Общие понятия/ООП/Абстракция.md",
+    "Языки/Python/zip().md",
+    "Языки/Python/Косвенные функции.md",
+    "Языки/Python/Рекурсивная функция.md",
+    "Общие понятия/ООП/Полиморфизм.md",
+    "Общие понятия/ООП/Инкапсуляция.md",
+    "Языки/Python/Frozenset.md",
+    "Книги/Чистый код/Формировани архитектуры.md",
+    "Языки/Python/Аргументы функции.md",
+    "Языки/Python/lambda.md",
     "Языки/Python/Области видимости переменых.md",
+    "Языки/Python/nonlocal.md",
+    "Языки/Python/global.md",
     "Языки/Python/Генераторные функции.md",
     "Языки/Python/yield.md",
     "Фреймворки/Django/Модель.md",
-    "Языки/Python/zip().md",
     "Фреймворки/Pillow/Pillow.md",
-    "Книги/Чистый код/Формировани архитектуры.md",
     "Книги/Чистый код/Комментарии.md",
     "Фреймворки/Django/Без названия.md",
     "Необработанное/Без названия.md",
@@ -227,18 +239,7 @@
     "Общие понятия/Solid/Принцип обращения зависимостей.md",
     "Остальное/Шаблоны/Структура.md",
     "Книги/Чистый код/Объекты.md",
-    "Языки/Python/Объект в Python.md",
-    "Языки/Python/Встроенные типы данных.md",
-    "Книги/Чистый код/Функции.md",
-    "Языки/Python/Strings.md",
-    "Языки/Python/Функциональное программирование.md",
-    "Языки/Python/Функция filter().md",
-    "Общие понятия/Алгебра логики/Дизъюнктивная нормальная формула.md",
-    "Общие понятия/Алгебра логики/Таблица истинности.md",
     "images/photo_2023-04-11_00-52-35.jpg",
-    "Языки/Python/Аннотации функций.md",
-    "Языки/Python/Динамическая типизация.md",
-    "Языки/Python/Булевские значения.md",
     "Необработанное",
     "Общие понятия/Алгебра логики",
     "Языки/Python",
