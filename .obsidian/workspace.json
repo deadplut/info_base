@@ -61,26 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Python/Динамическая типизация.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e5a57ad1e0df5c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Языки/Python/Встроенные типы данных.md",
+                "file": "Языки/Python/Имена переменные.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Языки/Python/Встроенные типы данных.md",
+                "file": "Языки/Python/Имена переменные.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Языки/Python/Встроенные типы данных.md",
+                "file": "Языки/Python/Имена переменные.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Языки/Python/Встроенные типы данных.md"
+                "file": "Языки/Python/Имена переменные.md"
               }
             }
           }
@@ -211,8 +198,11 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "2e5a57ad1e0df5c9",
+  "active": "45ba46ab46cda312",
   "lastOpenFiles": [
+    "Языки/Python/Динамическая типизация.md",
+    "Языки/Python/Строгая типизация.md",
+    "Языки/Python/Встроенные типы данных.md",
     "Языки/Python/Объект в Python.md",
     "Общие понятия/ООП/Абстракция.md",
     "Языки/Python/zip().md",
@@ -236,9 +226,6 @@
     "Необработанное/Без названия.md",
     "Языки/Python/Фабричный метод.md",
     "Книги/Чистый код/Имена, переменные.md",
-    "Общие понятия/Solid/Принцип обращения зависимостей.md",
-    "Остальное/Шаблоны/Структура.md",
-    "Книги/Чистый код/Объекты.md",
     "images/photo_2023-04-11_00-52-35.jpg",
     "Необработанное",
     "Общие понятия/Алгебра логики",
