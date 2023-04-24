@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Необработанное/Docker.md",
+                "file": "Общие понятия/GIT/Запись  изменений в репозиторий.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Необработанное/Docker.md",
+                "file": "Общие понятия/GIT/Запись  изменений в репозиторий.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Необработанное/Docker.md",
+                "file": "Общие понятия/GIT/Запись  изменений в репозиторий.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Необработанное/Docker.md"
+                "file": "Общие понятия/GIT/Запись  изменений в репозиторий.md"
               }
             }
           }
@@ -260,11 +260,11 @@
   },
   "active": "6c926775fd3ea31b",
   "lastOpenFiles": [
+    "Общие понятия/GIT/Создание репозитория.md",
+    "Необработанное/Docker.md",
     "Общие понятия/Docker",
     "Необработанное/YAML - Не язык разметки.md",
-    "Необработанное/Docker.md",
     "Необработанное/DataClass.md",
-    "Общие понятия/GIT/Создание репозитория.md",
     "Необработанное/Словари.md",
     "Необработанное/Без названия.md",
     "Необработанное/Списки.md",
@@ -298,7 +298,6 @@
     "images/Pasted image 20230330022728.png",
     "Без названия.canvas",
     "Общие понятия/АОП",
-    "Общие понятия/ООП",
     "images/Pasted image 20230322123203.png",
     "python ssdfasdfasfd/Без названия.canvas"
   ]
