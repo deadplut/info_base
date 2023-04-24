@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c926775fd3ea31b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Необработанное/Docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Необработанное/YAML - Не язык разметки.md",
+                "file": "Необработанное/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Необработанное/YAML - Не язык разметки.md",
+                "file": "Необработанное/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Необработанное/YAML - Не язык разметки.md"
+                "file": "Необработанное/Docker.md"
               }
             }
           }
@@ -246,10 +258,12 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "c05ad656a02ff9fb",
+  "active": "6c926775fd3ea31b",
   "lastOpenFiles": [
-    "Необработанное/DataClass.md",
+    "Общие понятия/Docker",
     "Необработанное/YAML - Не язык разметки.md",
+    "Необработанное/Docker.md",
+    "Необработанное/DataClass.md",
     "Общие понятия/GIT/Создание репозитория.md",
     "Необработанное/Словари.md",
     "Необработанное/Без названия.md",
@@ -273,8 +287,6 @@
     "Языки/Python/Встроенные типы данных.md",
     "Общие понятия/ООП/Абстракция.md",
     "Языки/Python/zip().md",
-    "Языки/Python/Рекурсивная функция.md",
-    "Общие понятия/ООП/Инкапсуляция.md",
     "images/photo_2023-04-11_00-52-35.jpg",
     "Необработанное",
     "Общие понятия/Алгебра логики",
