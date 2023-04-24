@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c05ad656a02ff9fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Необработанное/YAML - Не язык разметки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Необработанное/DataClass.md",
+                "file": "Необработанное/YAML - Не язык разметки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Необработанное/DataClass.md",
+                "file": "Необработанное/YAML - Не язык разметки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Необработанное/DataClass.md"
+                "file": "Необработанное/YAML - Не язык разметки.md"
               }
             }
           }
@@ -234,10 +246,11 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "693bb0b6b42babff",
+  "active": "c05ad656a02ff9fb",
   "lastOpenFiles": [
-    "Общие понятия/GIT/Создание репозитория.md",
     "Необработанное/DataClass.md",
+    "Необработанное/YAML - Не язык разметки.md",
+    "Общие понятия/GIT/Создание репозитория.md",
     "Необработанное/Словари.md",
     "Необработанное/Без названия.md",
     "Необработанное/Списки.md",
@@ -262,7 +275,6 @@
     "Языки/Python/zip().md",
     "Языки/Python/Рекурсивная функция.md",
     "Общие понятия/ООП/Инкапсуляция.md",
-    "Языки/Python/Frozenset.md",
     "images/photo_2023-04-11_00-52-35.jpg",
     "Необработанное",
     "Общие понятия/Алгебра логики",
