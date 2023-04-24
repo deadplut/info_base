@@ -85,14 +85,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Необработанное/Словари.md",
+                "file": "Общие понятия/GIT/Создание репозитория.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "693bb0b6b42babff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Необработанное/DataClass.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Необработанное/Словари.md",
+                "file": "Необработанное/DataClass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Необработанное/Словари.md",
+                "file": "Необработанное/DataClass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Необработанное/Словари.md"
+                "file": "Необработанное/DataClass.md"
               }
             }
           }
@@ -222,15 +234,16 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "72471367558fba5f",
+  "active": "693bb0b6b42babff",
   "lastOpenFiles": [
-    "Необработанное/Без названия.md",
+    "Общие понятия/GIT/Создание репозитория.md",
+    "Необработанное/DataClass.md",
     "Необработанное/Словари.md",
+    "Необработанное/Без названия.md",
     "Необработанное/Списки.md",
     "Без названия",
     "Общие понятия/Solid/Принцип открытости-закрытости.md",
     "Языки/Python/global.md",
-    "Общие понятия/GIT/Создание репозитория.md",
     "Языки/Python/Косвенные функции.md",
     "Книги/Чистый код/Имена, переменные.md",
     "Общие понятия/Solid/Принцип обращения зависимостей.md",
@@ -250,7 +263,6 @@
     "Языки/Python/Рекурсивная функция.md",
     "Общие понятия/ООП/Инкапсуляция.md",
     "Языки/Python/Frozenset.md",
-    "Книги/Чистый код/Формировани архитектуры.md",
     "images/photo_2023-04-11_00-52-35.jpg",
     "Необработанное",
     "Общие понятия/Алгебра логики",
