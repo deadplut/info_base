@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Необработанное/Словари.md",
+                "file": "Языки/Python/Кортежи.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,24 +169,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Необработанное/Кортежи.md",
+                "file": "Языки/Python/Кортежи.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "d08f70695fa8106a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -244,7 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 324.5
   },
   "right": {
     "id": "5f85e52e6a15ecce",
@@ -260,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Необработанное/Кортежи.md",
+                "file": "Языки/Python/Кортежи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Необработанное/Кортежи.md",
+                "file": "Языки/Python/Кортежи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Необработанное/Кортежи.md"
+                "file": "Языки/Python/Кортежи.md"
               }
             }
           }
@@ -324,10 +314,13 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "d08f70695fa8106a",
+  "active": "d20db937a81f6ad1",
   "lastOpenFiles": [
+    "Языки/Python/Множества.md",
+    "Языки/Python/Кортежи.md",
+    "Языки/Python/Встроенные типы данных.md",
+    "Языки/Python/Булевские значения.md",
     "Необработанное/Словари.md",
-    "Необработанное/Кортежи.md",
     "Необработанное/Списки.md",
     "Необработанное/тип данных.md",
     "Необработанное/DataClass.md",
@@ -351,10 +344,7 @@
     "Языки/Python/Генераторные функции.md",
     "Языки/Python/Генераторные выражения.md",
     "Языки/Python/zip().md",
-    "Общие понятия/GIT/Запись  изменений в репозиторий.md",
-    "Общие понятия/GIT/Создание репозитория.md",
     "Общие понятия/Docker",
-    "Необработанное/YAML - Не язык разметки.md",
     "Без названия",
     "images/photo_2023-04-11_00-52-35.jpg",
     "Необработанное",
