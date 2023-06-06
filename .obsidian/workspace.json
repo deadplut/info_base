@@ -174,9 +174,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d08f70695fa8106a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -219,6 +229,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1eddbdfff4eda883",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -306,7 +324,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "390e20a683fceccf",
+  "active": "d08f70695fa8106a",
   "lastOpenFiles": [
     "Необработанное/Словари.md",
     "Необработанное/Кортежи.md",
