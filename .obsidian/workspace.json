@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Необработанное/Операторы присваивания.md",
+                "file": "Языки/Python/Булевские значения.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Необработанное/Операторы присваивания.md",
+                "file": "Языки/Python/Булевские значения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Необработанное/Операторы присваивания.md",
+                "file": "Языки/Python/Булевские значения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Необработанное/Операторы присваивания.md"
+                "file": "Языки/Python/Булевские значения.md"
               }
             }
           }
@@ -340,8 +340,8 @@
   },
   "active": "f1837d0a680cea65",
   "lastOpenFiles": [
-    "Необработанное/Объект None.md",
     "Необработанное/Операторы присваивания.md",
+    "Необработанное/Объект None.md",
     "Языки/Python/Кортежи.md",
     "Языки/Python/Множества.md",
     "Языки/Python/Встроенные типы данных.md",
