@@ -4,203 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "92e67fa2732f4a7c",
+        "id": "504df345ebc35173",
         "type": "tabs",
         "children": [
           {
-            "id": "bc6fcdffa87ae9e1",
+            "id": "b204d52cd4e61001",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Python/Функция filter().md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f40de0649e9daa83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Общие понятия/Алгебра логики/Алгебра логики.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d0ef6d6ae9db71f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Общие понятия/Алгебра логики/Алгебра логики.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20fee81e58fd6c46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Языки/Python/Встроенные типы данных.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45ba46ab46cda312",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Общие понятия/Solid/Принцип открытости-закрытости.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "591645397288deb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Необработанное/Списки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72471367558fba5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Общие понятия/GIT/Создание репозитория.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "693bb0b6b42babff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Необработанное/DataClass.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c05ad656a02ff9fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Необработанное/YAML - Не язык разметки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c926775fd3ea31b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Языки/Python/Функциональное программирование.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b5b7a199a133aa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Общие понятия/Сетевые протоколы/Rest API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96a4851805743e5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Общие понятия/Сетевые протоколы/REST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ece0a9e7bc2096f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Языки/Python/Кортежи.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88c644c00dad84a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Необработанное/Объект None.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1837d0a680cea65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Языки/Python/zip().md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "390e20a683fceccf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Языки/Python/Кортежи.md",
+                "file": "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/UI - пользовательский интерфейс.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -274,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Языки/Python/zip().md",
+                "file": "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/UI - пользовательский интерфейс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Языки/Python/zip().md",
+                "file": "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/UI - пользовательский интерфейс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Языки/Python/zip().md"
+                "file": "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/UI - пользовательский интерфейс.md"
               }
             }
           }
@@ -338,8 +157,25 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "f1837d0a680cea65",
+  "active": "b204d52cd4e61001",
   "lastOpenFiles": [
+    "Общие понятия/ООП/Полиморфизм.md",
+    "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/UI - пользовательский интерфейс.md",
+    "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Ux - опыт пользователя.md",
+    "Учёба/Магистратура/1 курс/Основы теории и методологии дизайна/Дизайн это?.md",
+    "Учёба/Магистратура/1 курс/Без названия.md",
+    "Учёба/Магистратура/1 курс/Основы UX,UI дизайна",
+    "Учёба/Магистратура/1 курс/Основы теории и методологии дизайна/Продуктовое мышление.md",
+    "Учёба/Магистратура/1 курс/Основы теории и методологии дизайна/Что такое продукт.md",
+    "Учёба/Репетитор/French",
+    "Учёба/Репетитор/English",
+    "images/Pasted image 20230914192637.png",
+    "Учёба/Магистратура/1 курс/Основы теории и методологии дизайна",
+    "Учёба/Магистратура/1 курс",
+    "Учёба/Репетитор",
+    "Учёба/Магистратура",
+    "Учёба",
+    "Языки/Python/zip().md",
     "Языки/Python/Функция map().md",
     "Языки/Python/Функциональное программирование.md",
     "Языки/Python/Фабричный метод.md",
@@ -358,25 +194,9 @@
     "Языки/Python/Кортежи.md",
     "Языки/Python/Множества.md",
     "Языки/Python/Встроенные типы данных.md",
-    "Необработанное/Словари.md",
-    "Необработанное/Списки.md",
-    "Необработанное/тип данных.md",
-    "Необработанное/DataClass.md",
-    "Необработанное/Docker.md",
-    "Общие понятия/Сетевые протоколы/Принципы RESTAPI.md",
-    "Общие понятия/Сетевые протоколы/APi.md",
-    "Общие понятия/Сетевые протоколы/Rest API.md",
     "Общие понятия/RestAPI",
     "Общие понятия/Сетевые протоколы",
-    "Общие понятия/Docker",
-    "Без названия",
     "images/photo_2023-04-11_00-52-35.jpg",
-    "Необработанное",
-    "Общие понятия/Алгебра логики",
-    "Языки/Python",
-    "Языки",
-    "Фреймворки/Pillow",
-    "Фреймворки/Django",
     "images/Pasted image 20230330022728.png",
     "Без названия.canvas",
     "images/Pasted image 20230322123203.png",
