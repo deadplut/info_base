@@ -8,3 +8,6 @@
 <meta property="og:image" content="images/og.jpg">
 <meta property="twitter:card" content="summary_large_image">
 ```
+
+### Тэги:
+#html
