@@ -11,8 +11,12 @@
             "id": "1fd8a51da6041c1f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/Магистратура/1 курс/Вёрстка/Input.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Учёба/Магистратура/1 курс/Вёрстка/Input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Учёба/Магистратура/1 курс/Вёрстка/Input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Учёба/Магистратура/1 курс/Вёрстка/Input.md"
+              }
             }
           }
         ]
@@ -150,6 +158,8 @@
   },
   "active": "1fd8a51da6041c1f",
   "lastOpenFiles": [
+    "Учёба/Магистратура/1 курс/Вёрстка/Формы.md",
+    "Учёба/Магистратура/1 курс/Вёрстка/Input.md",
     "Учёба/Магистратура/1 курс/Вёрстка/Скрывающие блок свойства.md",
     "Учёба/Магистратура/1 курс/Вёрстка/Разметка OpenGraph.md",
     "Учёба/Магистратура/1 курс/Вёрстка/Псевдоклассы и псевдоэлементы.md",
@@ -190,8 +200,6 @@
     "Учёба/Репетитор",
     "Учёба/Магистратура",
     "Учёба",
-    "Языки/Python/zip().md",
-    "Языки/Python/Функция map().md",
     "Общие понятия/RestAPI",
     "images/photo_2023-04-11_00-52-35.jpg",
     "Без названия.canvas",
