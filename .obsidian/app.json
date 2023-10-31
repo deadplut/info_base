@@ -8,5 +8,6 @@
     "en"
   ],
   "newFileLocation": "folder",
-  "newFileFolderPath": "Необработанное"
+  "newFileFolderPath": "Необработанное",
+  "focusNewTab": false
 }
