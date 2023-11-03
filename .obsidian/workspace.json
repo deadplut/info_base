@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Python/Функция map().md",
+                "file": "Учёба/Репетитор/English/Adding emphasis - cleft sentences.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lamb",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Языки/Python/Функция map().md"
+                "file": "Учёба/Репетитор/English/Adding emphasis - cleft sentences.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Языки/Python/Функция map().md",
+                "file": "Учёба/Репетитор/English/Adding emphasis - cleft sentences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +147,8 @@
   },
   "active": "26f82d75047f310c",
   "lastOpenFiles": [
+    "Учёба/Репетитор/English/Adding emphasis - cleft sentences.md",
+    "Языки/Python/Функция map().md",
     "Языки/Python/Инструменты функционального программирования.md",
     "Языки/Python/lambda.md",
     "Общие понятия/ООП/Полиморфизм.md",
@@ -182,8 +183,6 @@
     "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Контекст использования продукта.md",
     "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Качественный и количественные исследования.md",
     "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Фокус группа.md",
-    "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Методы UX- исследований.md",
-    "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Этапы разработки продукта.md",
     "Учёба/Магистратура/1 курс/Вёрстка",
     "Учёба/Магистратура/1 курс/Основы UX,UI дизайна",
     "Учёба/Репетитор/French",
