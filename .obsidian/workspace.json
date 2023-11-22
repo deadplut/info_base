@@ -11,8 +11,13 @@
             "id": "b21414e2ff667839",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/Магистратура/1 курс/Вёрстка/Единицы измерения.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Учёба/Магистратура/1 курс/Вёрстка/Единицы измерения.md"
+              }
             }
           },
           {
@@ -108,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Учёба/Магистратура/1 курс/Вёрстка/Единицы измерения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,8 +145,9 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "b21414e2ff667839",
+  "active": "d20db937a81f6ad1",
   "lastOpenFiles": [
+    "Учёба/Магистратура/1 курс/Вёрстка/Дополнительные блочные свойства.md",
     "Учёба/Репетитор/English/Will, would, should.md",
     "Учёба/Магистратура/1 курс/Вёрстка/Функция fit-content().md",
     "Учёба/Магистратура/1 курс/Вёрстка/Фавикон.md",
@@ -167,7 +176,6 @@
     "images/Pasted image 20231111030109.png",
     "images/Pasted image 20231111030006.png",
     "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Футер.md",
-    "Языки/Python/Функция map().md",
     "images/Pasted image 20231110003400.png",
     "images/Pasted image 20231106171944.png",
     "images/Pasted image 20231106171909.png",
