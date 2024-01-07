@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Java Script/Типы данных.md",
+                "file": "Языки/Java Script/Аттрибуты и их методы.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Языки/Java Script/Типы данных.md"
+                "file": "Языки/Java Script/Аттрибуты и их методы.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Языки/Java Script/Типы данных.md",
+                "file": "Языки/Java Script/Аттрибуты и их методы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,9 +147,11 @@
   },
   "active": "46f45efba8e9f16c",
   "lastOpenFiles": [
+    "Языки/Java Script/DOM.md",
+    "Языки/Java Script/Аттрибуты и их методы.md",
+    "Языки/Java Script/Типы данных.md",
     "Языки/Java Script/Number.md",
     "Языки/Java Script/Undefined & null.md",
-    "Языки/Java Script/Типы данных.md",
     "Языки/Python/Встроенные типы данных.md",
     "Языки/Python/Объект в Python.md",
     "Языки/Java Script/Объекты.md",
@@ -173,8 +175,6 @@
     "Учёба/Магистратура/1 курс/Вёрстка/Псевдоклассы и псевдоэлементы.md",
     "Учёба/Магистратура/1 курс/Вёрстка/ГРИДЫЫЫЫ.md",
     "Учёба/Магистратура/1 курс/Вёрстка/Селекторы и фолбэки.md",
-    "Учёба/Магистратура/1 курс/Вёрстка/Скрывающие блок свойства.md",
-    "Учёба/Магистратура/1 курс/Вёрстка/Тэг iframe.md",
     "images/Pasted image 20231114003351.png",
     "images/Pasted image 20231111030109.png",
     "images/Pasted image 20231111030006.png",
