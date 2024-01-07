@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учёба/Магистратура/1 курс/Java Script/Объекты.md",
+                "file": "Языки/Java Script/Типы данных.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#переменные",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Учёба/Магистратура/1 курс/Java Script/Объекты.md"
+                "file": "Языки/Java Script/Типы данных.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Учёба/Магистратура/1 курс/Java Script/Объекты.md",
+                "file": "Языки/Java Script/Типы данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,9 +147,14 @@
   },
   "active": "46f45efba8e9f16c",
   "lastOpenFiles": [
+    "Языки/Java Script/Number.md",
+    "Языки/Java Script/Undefined & null.md",
+    "Языки/Java Script/Типы данных.md",
+    "Языки/Python/Встроенные типы данных.md",
+    "Языки/Python/Объект в Python.md",
+    "Языки/Java Script/Объекты.md",
     "Учёба/Магистратура/1 курс/Без названия.md",
-    "Учёба/Магистратура/1 курс/Java Script/Объекты.md",
-    "Учёба/Магистратура/1 курс/Java Script",
+    "Языки/Java Script",
     "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Цвет.md",
     "Учёба/Магистратура/1 курс/Вёрстка/Фавикон.md",
     "Учёба/Магистратура/1 курс/Вёрстка/Функция calc().md",
@@ -170,11 +175,6 @@
     "Учёба/Магистратура/1 курс/Вёрстка/Селекторы и фолбэки.md",
     "Учёба/Магистратура/1 курс/Вёрстка/Скрывающие блок свойства.md",
     "Учёба/Магистратура/1 курс/Вёрстка/Тэг iframe.md",
-    "Учёба/Магистратура/1 курс/Вёрстка/Тэги video и audio.md",
-    "Учёба/Магистратура/1 курс/Вёрстка/Формы.md",
-    "Учёба/Магистратура/1 курс/Вёрстка/Функция fit-content().md",
-    "Учёба/Магистратура/1 курс/Вёрстка/Функция minmax().md",
-    "Учёба/Магистратура/1 курс/Вёрстка/Css-переменные.md",
     "images/Pasted image 20231114003351.png",
     "images/Pasted image 20231111030109.png",
     "images/Pasted image 20231111030006.png",
