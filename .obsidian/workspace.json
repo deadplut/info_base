@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Java Script/Массивы.md",
+                "file": "Языки/Java Script/Методы массивов.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "s",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Языки/Java Script/Массивы.md"
+                "file": "Языки/Java Script/Методы массивов.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Языки/Java Script/Массивы.md",
+                "file": "Языки/Java Script/Методы массивов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,10 +145,11 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "465e37537cc4c4a0",
+  "active": "46f45efba8e9f16c",
   "lastOpenFiles": [
+    "Языки/Java Script/Функции.md",
+    "Языки/Java Script/Методы массивов.md",
     "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Аспекты проектирования.md",
-    "Языки/Java Script/Массивы.md",
     "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Анатомия буквы.md",
     "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Виды гарнитур.md",
     "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Виды интерфейсов.md",
@@ -173,7 +173,6 @@
     "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Цветовой круг.md",
     "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Цветовой спектр.md",
     "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Цветовые схемы.md",
-    "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Правильная типография.md",
     "Языки/Java Script",
     "images/Pasted image 20230920172917.png",
     "images/Pasted image 20231114003351.png",
