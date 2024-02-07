@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Java Script/Методы массивов.md",
+                "file": "Языки/Java Script/Объекты.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Языки/Java Script/Методы массивов.md"
+                "file": "Языки/Java Script/Объекты.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Языки/Java Script/Методы массивов.md",
+                "file": "Языки/Java Script/Объекты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +147,7 @@
   },
   "active": "46f45efba8e9f16c",
   "lastOpenFiles": [
+    "Языки/Java Script/Методы массивов.md",
     "Языки/Java Script/Undefined & null.md",
     "Языки/Java Script/Number.md",
     "Языки/Java Script/DOM.md",
@@ -155,7 +156,6 @@
     "Языки/Java Script/Типы данных.md",
     "Языки/Java Script/Стрелочные функции.md",
     "Языки/Java Script/Объекты.md",
-    "Языки/Java Script/Методы массивов.md",
     "Языки/Java Script/Аттрибуты и их методы.md",
     "Языки/Java Script/Без названия.md",
     "images/Pasted image 20240205150239.png",
