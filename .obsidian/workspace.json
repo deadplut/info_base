@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Java Script/Обработчик события.md",
+                "file": "Языки/Java Script/Формы.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Языки/Java Script/Обработчик события.md"
+                "file": "Языки/Java Script/Формы.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Языки/Java Script/Обработчик события.md",
+                "file": "Языки/Java Script/Формы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +147,9 @@
   },
   "active": "46f45efba8e9f16c",
   "lastOpenFiles": [
+    "Языки/Java Script/Обработчик события.md",
+    "Языки/Java Script/Формы.md",
+    "images/Pasted image 20240221210049.png",
     "Языки/Java Script/События клавиатуры.md",
     "Языки/Java Script/События мыши.md",
     "Языки/Java Script/Number.md",
@@ -154,7 +157,6 @@
     "Языки/Java Script/Функциональное выражение.md",
     "Языки/Java Script/Типы данных.md",
     "Языки/Java Script/Стрелочные функции.md",
-    "Языки/Java Script/Обработчик события.md",
     "Языки/Java Script/Аттрибуты и их методы.md",
     "Языки/Java Script/Методы массивов.md",
     "Языки/Java Script/Объекты.md",
@@ -179,12 +181,10 @@
     "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Виды интерфейсов.md",
     "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Гарнитура.md",
     "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Единицы внимания.md",
-    "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Интерлиньяж и межстрочный интервал.md",
     "Языки/Java Script",
     "images/Pasted image 20230920172917.png",
     "images/Pasted image 20231114003351.png",
     "images/Pasted image 20231111030109.png",
-    "images/Pasted image 20231111030006.png",
     "Учёба/Магистратура/1 курс/Вёрстка",
     "Учёба/Магистратура/1 курс/Основы UX,UI дизайна",
     "Учёба/Репетитор/French",
