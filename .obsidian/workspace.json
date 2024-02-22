@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Java Script/Формы.md",
+                "file": "Языки/Python/Функция filter().md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Языки/Java Script/Формы.md"
+                "file": "Языки/Python/Функция filter().md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Языки/Java Script/Формы.md",
+                "file": "Языки/Python/Функция filter().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,8 +147,10 @@
   },
   "active": "46f45efba8e9f16c",
   "lastOpenFiles": [
-    "Языки/Java Script/Обработчик события.md",
+    "Языки/Python/Функция map().md",
+    "Языки/Python/Функция reduce().md",
     "Языки/Java Script/Формы.md",
+    "Языки/Java Script/Обработчик события.md",
     "images/Pasted image 20240221210049.png",
     "Языки/Java Script/События клавиатуры.md",
     "Языки/Java Script/События мыши.md",
@@ -179,8 +181,6 @@
     "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Анатомия буквы.md",
     "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Виды гарнитур.md",
     "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Виды интерфейсов.md",
-    "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Гарнитура.md",
-    "Учёба/Магистратура/1 курс/Основы UX,UI дизайна/Единицы внимания.md",
     "Языки/Java Script",
     "images/Pasted image 20230920172917.png",
     "images/Pasted image 20231114003351.png",
