@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4551148c2db6607b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +156,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "46f45efba8e9f16c",
+  "active": "4551148c2db6607b",
   "lastOpenFiles": [
     "images/Pasted image 20240222183330.png",
     "images/Pasted image 20240222183102.png",
