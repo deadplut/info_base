@@ -24,9 +24,12 @@
             "id": "4551148c2db6607b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "Языки/Java Script/Формы.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -156,8 +159,11 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "4551148c2db6607b",
+  "active": "d20db937a81f6ad1",
   "lastOpenFiles": [
+    "Языки/Java Script/Обработчик события.md",
+    "Языки/Java Script/Объекты.md",
+    "Языки/Java Script/События мыши.md",
     "images/Pasted image 20240222183330.png",
     "images/Pasted image 20240222183102.png",
     "Учёба/Магистратура/1 курс/Алгоритмы и структуры данных/Сложность алгоритмов.md",
@@ -174,10 +180,8 @@
     "Языки/Python/Функция map().md",
     "Языки/Python/Функция reduce().md",
     "Языки/Java Script/Формы.md",
-    "Языки/Java Script/Обработчик события.md",
     "images/Pasted image 20240221210049.png",
     "Языки/Java Script/События клавиатуры.md",
-    "Языки/Java Script/События мыши.md",
     "Языки/Java Script/Number.md",
     "Языки/Java Script/DOM.md",
     "Языки/Java Script/Функциональное выражение.md",
@@ -185,7 +189,6 @@
     "Языки/Java Script/Стрелочные функции.md",
     "Языки/Java Script/Аттрибуты и их методы.md",
     "Языки/Java Script/Методы массивов.md",
-    "Языки/Java Script/Объекты.md",
     "Учёба/Магистратура/1 курс/Вёрстка/ГРИДЫЫЫЫ.md",
     "Учёба/Магистратура/1 курс/Алгоритмы и структуры данных/Упорядочение массива.md",
     "Учёба/Магистратура/1 курс/Алгоритмы и структуры данных/Включение элемента в массив.md",
@@ -194,7 +197,6 @@
     "images/Pasted image 20240215182320.png",
     "images/Pasted image 20240215182317.png",
     "Учёба/Магистратура/1 курс/Алгоритмы и структуры данных",
-    "images/keyup_down_press_2_1588417097.gif",
     "Языки/Java Script",
     "Учёба/Магистратура/1 курс/Вёрстка",
     "Учёба/Магистратура/1 курс/Основы UX,UI дизайна",
