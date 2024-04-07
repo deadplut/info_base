@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Typescript/Set up проекта/Установка ESLint.md",
+                "file": "Языки/Typescript/Типы данных.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Языки/Typescript/Set up проекта/Установка ESLint.md"
+                "file": "Языки/Typescript/Типы данных.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Языки/Typescript/Set up проекта/Установка ESLint.md",
+                "file": "Языки/Typescript/Типы данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,9 +148,11 @@
   },
   "active": "7abc0bbcde478844",
   "lastOpenFiles": [
+    "Языки/Typescript/Set up проекта/Установка ESLint.md",
+    "Языки/Typescript/Типы данных.md",
+    "images/Pasted image 20240407134104.png",
     "Языки/Typescript/Set up проекта/Сборка конфига.md",
     "Языки/Typescript/Set up проекта/Сборка webpack.md",
-    "Языки/Typescript/Set up проекта/Установка ESLint.md",
     "Языки/Typescript/Set up проекта",
     "Учёба/Магистратура/1 курс/Алгоритмы и структуры данных/Сортировки на основе бинарных деревьев.md",
     "Необработанное/яндекс.практикум.md",
@@ -174,8 +176,6 @@
     "Учёба/Магистратура/1 курс/Алгоритмы и структуры данных/Удаление элемента из массива.md",
     "Учёба/Магистратура/1 курс/Алгоритмы и структуры данных/Упорядочение массива.md",
     "Учёба/Магистратура/1 курс/Алгоритмы и структуры данных/Циклический сдвиг.md",
-    "Учёба/Магистратура/1 курс/Алгоритмы и структуры данных/Цифровая сортировка.md",
-    "Языки/Java Script/Строковые методы поиска.md",
     "images/Pasted image 20240301224638.png",
     "images/Pasted image 20240301224316.png",
     "images/Pasted image 20240301222441.png",
@@ -185,7 +185,6 @@
     "images/Pasted image 20240229182100.png",
     "images/Pasted image 20240229181951.png",
     "images/Pasted image 20240229181540.png",
-    "images/Pasted image 20240229181444.png",
     "Учёба/Магистратура/1 курс/Алгоритмы и структуры данных",
     "Языки/Java Script",
     "Учёба/Магистратура/1 курс/Вёрстка",
