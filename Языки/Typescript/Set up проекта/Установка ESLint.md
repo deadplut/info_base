@@ -1,5 +1,5 @@
 
-```
+```bash
 npm init @eslint/config
 ```
 
