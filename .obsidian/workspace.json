@@ -11,8 +11,13 @@
             "id": "b2dd2874fe251da4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Языки/Java Script/Методы массивов.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Языки/Java Script/Методы массивов.md"
+              }
             }
           },
           {
@@ -108,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Языки/Java Script/Методы массивов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +148,9 @@
   },
   "active": "b2dd2874fe251da4",
   "lastOpenFiles": [
+    "Языки/Java Script/Строковые методы поиска.md",
+    "Языки/Java Script/Функции.md",
+    "Языки/Java Script/Функциональное выражение.md",
     "Языки/Typescript/ООП/Статические поля и методы.md",
     "Языки/Typescript/ООП/Полиморфизм.md",
     "Общие понятия/ООП/Полиморфизм.md",
@@ -168,10 +179,7 @@
     "Учёба/Магистратура/1 курс/Алгоритмы и структуры данных/Алгоритмы/Сортировка методом обмена.md",
     "images/Pasted image 20240414131718.png",
     "images/Pasted image 20240414130714.png",
-    "Языки/Java Script/This - контекст и способ привязки.md",
-    "Языки/Java Script/Стрелочные функции.md",
     "images/Pasted image 20240411175339.png",
-    "Учёба/Магистратура/1 курс/Алгоритмы и структуры данных/Алгоритмы/Бинарный поиск.md",
     "Учёба/Магистратура/1 курс/Алгоритмы и структуры данных/Структуры данных",
     "Учёба/Магистратура/1 курс/Алгоритмы и структуры данных/Алгоритмы",
     "images/Pasted image 20240407134104.png",
