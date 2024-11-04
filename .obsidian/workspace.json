@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "abc71826b9d548fb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b2dd2874fe251da4",
+  "active": "abc71826b9d548fb",
   "lastOpenFiles": [
     "Учёба/Магистратура/1 курс/Инфографика/Анимированная инфографики.md",
     "Учёба/Магистратура/1 курс/Инфографика/Интеллект-карта.md",
