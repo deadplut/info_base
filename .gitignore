@@ -1,3 +1,6 @@
+.obsidian/plugins/obsidian-git/obsidian_askpass.sh
+*.log
+*.pyc
+__pycache__/
 
-.obsidian/workspace.json
 .obsidian/workspace.json
