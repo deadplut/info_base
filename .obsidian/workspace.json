@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Базы данных/NoSQL/MongoDB/Запросы и Фильтры.md",
+                "file": "Базы данных/NoSQL/MongoDB/Типы данных.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Запросы и Фильтры"
+              "title": "Типы данных"
             }
           }
         ]
@@ -164,10 +164,10 @@
   },
   "active": "7f2d87ebf442fea0",
   "lastOpenFiles": [
-    "Базы данных/NoSQL/MongoDB/Типы данных.md",
-    "Базы данных/NoSQL/MongoDB/Запросы и Фильтры.md",
-    "Базы данных/NoSQL/MongoDB/Подключение к СУБД.md",
     "Базы данных/NoSQL/MongoDB/Что это?.md",
+    "Базы данных/NoSQL/MongoDB/Типы данных.md",
+    "Базы данных/NoSQL/MongoDB/Подключение к СУБД.md",
+    "Базы данных/NoSQL/MongoDB/Запросы и Фильтры.md",
     "Базы данных/NoSQL/MongoDB",
     "Базы данных/NoSQL",
     "Базы данных/SQL",
