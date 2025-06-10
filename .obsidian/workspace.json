@@ -23,6 +23,33 @@
             }
           },
           {
+            "id": "9219973eb4992856",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Необработанное/Построитель класса данных.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Построитель класса данных"
+            }
+          },
+          {
+            "id": "9aeb122cfdfc2a7e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
             "id": "57a97dc32a8ea24f",
             "type": "leaf",
             "state": {
@@ -37,7 +64,8 @@
               "title": "Bytes - тип данных"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -56,7 +84,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -177,8 +206,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "d20db937a81f6ad1",
+  "active": "9aeb122cfdfc2a7e",
   "lastOpenFiles": [
+    "Языки/Python/Символы.md",
+    "Необработанное/Построитель класса данных.md",
     "Языки/Python/Словари.md",
     "Языки/Python/Словарные включения.md",
     "Языки/Python/Списковое включение.md",
@@ -193,7 +224,6 @@
     "Языки/Python/Хэшируемость.md",
     "Языки/Python/Множества.md",
     "Языки/Python/Bytes - тип данных.md",
-    "Языки/Python/Символы.md",
     "Языки/Python/Встроенные последовательности.md",
     "Необработанное/Типы организационных структур.md",
     "Необработанное/Списки.md",
@@ -204,7 +234,6 @@
     "Языки/Python/Объект в Python.md",
     "Языки/Python/Области видимости переменых.md",
     "Языки/Python/Кортежи.md",
-    "Языки/Python/Косвенные функции.md",
     "images/Pasted image 20250609173443.png",
     "images/Pasted image 20250103055308.png",
     "Учёба/Магистратура/2 курс/Управление проектами",
