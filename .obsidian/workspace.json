@@ -28,25 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Необработанное/Построитель класса данных.md",
+                "file": "Языки/Python/Аннотации функций.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Построитель класса данных"
-            }
-          },
-          {
-            "id": "9aeb122cfdfc2a7e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "title": "Аннотации функций"
             }
           },
           {
@@ -65,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,10 +194,12 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "9aeb122cfdfc2a7e",
+  "active": "9219973eb4992856",
   "lastOpenFiles": [
+    "Необработанное/Без названия 2.md",
+    "Языки/Python/Именнованне кортежи.md",
+    "Языки/Python/Кортежи.md",
     "Языки/Python/Символы.md",
-    "Необработанное/Построитель класса данных.md",
     "Языки/Python/Словари.md",
     "Языки/Python/Словарные включения.md",
     "Языки/Python/Списковое включение.md",
@@ -232,8 +222,6 @@
     "Языки/Python/Паттерны проектирования.md",
     "Языки/Python/Оператор сравнения и _is_.md",
     "Языки/Python/Объект в Python.md",
-    "Языки/Python/Области видимости переменых.md",
-    "Языки/Python/Кортежи.md",
     "images/Pasted image 20250609173443.png",
     "images/Pasted image 20250103055308.png",
     "Учёба/Магистратура/2 курс/Управление проектами",
