@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Python/Аннотации функций.md",
+                "file": "Языки/Python/DataClass.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Аннотации функций"
+              "title": "DataClass"
             }
           },
           {
@@ -194,11 +194,18 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "9219973eb4992856",
+  "active": "d20db937a81f6ad1",
   "lastOpenFiles": [
+    "Языки/Python/DataClass.md",
+    "images/Pasted image 20250610165423.png",
+    "Языки/Python/Имена переменные.md",
+    "Языки/Python/Кортежи.md",
+    "Языки/Python/Встроенные последовательности.md",
+    "Языки/Python/Булевские значения.md",
+    "Языки/Python/Аргументы функции.md",
+    "Языки/Python/Аннотация типов.md",
     "Необработанное/Без названия 2.md",
     "Языки/Python/Именнованне кортежи.md",
-    "Языки/Python/Кортежи.md",
     "Языки/Python/Символы.md",
     "Языки/Python/Словари.md",
     "Языки/Python/Словарные включения.md",
@@ -206,22 +213,16 @@
     "Языки/Python/Срез в последовательностях.md",
     "Языки/Python/Строгая типизация.md",
     "Языки/Python/Типы данных.md",
-    "Языки/Python/Булевские значения.md",
-    "Языки/Python/Аргументы функции.md",
-    "Языки/Python/Аннотации функций.md",
     "Языки/Python/bytearray - тип данных.md",
     "Языки/Python/Массив последовательностей.md",
     "Языки/Python/Хэшируемость.md",
     "Языки/Python/Множества.md",
     "Языки/Python/Bytes - тип данных.md",
-    "Языки/Python/Встроенные последовательности.md",
     "Необработанное/Типы организационных структур.md",
     "Необработанное/Списки.md",
     "Языки/Python/Фабричный метод.md",
     "Языки/Python/Рекурсивная функция.md",
     "Языки/Python/Паттерны проектирования.md",
-    "Языки/Python/Оператор сравнения и _is_.md",
-    "Языки/Python/Объект в Python.md",
     "images/Pasted image 20250609173443.png",
     "images/Pasted image 20250103055308.png",
     "Учёба/Магистратура/2 курс/Управление проектами",
@@ -237,7 +238,6 @@
     "images/Pasted image 20240609011814.png",
     "images/Pasted image 20240605012232.png",
     "images/Pasted image 20240605012018.png",
-    "images/Pasted image 20240605011853.png",
     "images/~$Инфографика - практика 01.pptx",
     "images/Инфографика - практика 01.pptx",
     "Учёба/Магистратура/1 курс/Инфографика",
