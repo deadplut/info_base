@@ -8,37 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1d7cbec468d57d0",
+            "id": "3e487fd1cc1588f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Python/Списковое включение.md",
+                "file": "Языки/Python/Символы.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Списковое включение"
+              "title": "Символы"
             }
           },
           {
-            "id": "2a88839c7088b5cb",
+            "id": "57a97dc32a8ea24f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Python/Множества.md",
+                "file": "Языки/Python/Bytes - тип данных.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Множества"
+              "title": "Bytes - тип данных"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,20 +177,27 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "2a88839c7088b5cb",
+  "active": "d20db937a81f6ad1",
   "lastOpenFiles": [
     "Языки/Python/Словари.md",
-    "Языки/Python/Хэшируемость.md",
     "Языки/Python/Словарные включения.md",
     "Языки/Python/Списковое включение.md",
+    "Языки/Python/Срез в последовательностях.md",
+    "Языки/Python/Строгая типизация.md",
+    "Языки/Python/Типы данных.md",
+    "Языки/Python/Булевские значения.md",
+    "Языки/Python/Аргументы функции.md",
+    "Языки/Python/Аннотации функций.md",
+    "Языки/Python/bytearray - тип данных.md",
     "Языки/Python/Массив последовательностей.md",
-    "Языки/Python/Встроенные последовательности.md",
+    "Языки/Python/Хэшируемость.md",
     "Языки/Python/Множества.md",
+    "Языки/Python/Bytes - тип данных.md",
+    "Языки/Python/Символы.md",
+    "Языки/Python/Встроенные последовательности.md",
     "Необработанное/Типы организационных структур.md",
     "Необработанное/Списки.md",
-    "Языки/Python/Срез в последовательностях.md",
     "Языки/Python/Фабричный метод.md",
-    "Языки/Python/Строгая типизация.md",
     "Языки/Python/Рекурсивная функция.md",
     "Языки/Python/Паттерны проектирования.md",
     "Языки/Python/Оператор сравнения и _is_.md",
@@ -199,13 +205,6 @@
     "Языки/Python/Области видимости переменых.md",
     "Языки/Python/Кортежи.md",
     "Языки/Python/Косвенные функции.md",
-    "Языки/Python/Итерируемый объект.md",
-    "Языки/Python/Итераторы.md",
-    "Языки/Python/Итерация.md",
-    "Языки/Python/Инструменты функционального программирования.md",
-    "Языки/Python/Имена переменные.md",
-    "Языки/Python/Динамическая типизация.md",
-    "Языки/Python/Генераторные функции и выражения.md",
     "images/Pasted image 20250609173443.png",
     "images/Pasted image 20250103055308.png",
     "Учёба/Магистратура/2 курс/Управление проектами",
