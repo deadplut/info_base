@@ -13,16 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Python/Итерируемый объект.md",
+                "file": "Языки/Python/Генераторные выражения.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Итерируемый объект"
+              "title": "Генераторные выражения"
+            }
+          },
+          {
+            "id": "20eb2f777ac822dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Языки/Python/Генераторы.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Генераторы"
+            }
+          },
+          {
+            "id": "1c2cafcf9d6c07d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Необработанное/Ответы.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Ответы"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,10 +194,16 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "a94c71b616125ee7",
+  "active": "1c2cafcf9d6c07d7",
   "lastOpenFiles": [
-    "Языки/Python/Итераторы.md",
+    "Языки/Python/yield.md",
+    "Необработанное/Ответы.md",
+    "Языки/Python/Генераторы.md",
+    "Языки/Python/Генераторные выражения.md",
+    "Языки/Python/Генераторные функции и выражения.md",
+    "Языки/Python/Генераторные функции.md",
     "Языки/Python/Итерируемый объект.md",
+    "Языки/Python/Итераторы.md",
     "Языки/Python/Встроенная функция iter.md",
     "Языки/Python/Итерация.md",
     "Языки/Python/Объект в Python.md",
@@ -195,12 +232,6 @@
     "Языки/Python/Косвенные функции.md",
     "Языки/Python/Кортежи.md",
     "Языки/Python/Копирования объектов.md",
-    "Языки/Python/Именнованне кортежи.md",
-    "Языки/Python/Имена переменные.md",
-    "Языки/Python/Динамическая типизация.md",
-    "Языки/Python/Генераторные функции и выражения.md",
-    "Языки/Python/Генераторные функции.md",
-    "Языки/Python/Генераторные выражения.md",
     "Без названия",
     "Учёба/Магистратура/2 курс/Управление проектами",
     "Учёба/Магистратура/2 курс",
