@@ -13,32 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Python/Замыкания.md",
+                "file": "Языки/Python/Итерируемый объект.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Замыкания"
-            }
-          },
-          {
-            "id": "1c3ee977860d6e69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Языки/Python/Декораторы.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Декораторы"
+              "title": "Итерируемый объект"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,17 +163,31 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "1c3ee977860d6e69",
+  "active": "a94c71b616125ee7",
   "lastOpenFiles": [
+    "Языки/Python/Итераторы.md",
+    "Языки/Python/Итерируемый объект.md",
+    "Языки/Python/Встроенная функция iter.md",
+    "Языки/Python/Итерация.md",
+    "Языки/Python/Объект в Python.md",
+    "images/Pasted image 20231101002700.png",
+    "images/Pasted image 20231101015300.png",
+    "images/Pasted image 20231106142745.png",
+    "images/Pasted image 20231106165900.png",
+    "images/Pasted image 20240229181951.png",
+    "images/Pasted image 20240425181305.png",
+    "images/Pasted image 20240502182659.png",
+    "images/Pasted image 20240527195447.png",
+    "images/Pasted image 20240528231117.png",
+    "images/Pasted image 20240601171752.png",
+    "Языки/Python/Декораторы.md",
     "Языки/Python/Области видимости переменых.md",
     "Языки/Python/Замыкания.md",
-    "Языки/Python/Декораторы.md",
     "Языки/Python/nonlocal.md",
     "Языки/Python/global.md",
     "Языки/Python/Инструменты функционального программирования.md",
     "Языки/Python/Функции.md",
     "Языки/Python/Анонимная функция lambda.md",
-    "Языки/Python/Объект в Python.md",
     "Языки/Python/Аргументы функции.md",
     "Языки/Python/Аннотация типов.md",
     "Языки/Python/Множества.md",
@@ -197,33 +195,19 @@
     "Языки/Python/Косвенные функции.md",
     "Языки/Python/Кортежи.md",
     "Языки/Python/Копирования объектов.md",
-    "Языки/Python/Итерируемый объект.md",
-    "Языки/Python/Итерация.md",
-    "Языки/Python/Итераторы.md",
     "Языки/Python/Именнованне кортежи.md",
     "Языки/Python/Имена переменные.md",
     "Языки/Python/Динамическая типизация.md",
     "Языки/Python/Генераторные функции и выражения.md",
     "Языки/Python/Генераторные функции.md",
     "Языки/Python/Генераторные выражения.md",
-    "Языки/Python/Встроенные последовательности.md",
     "Без названия",
-    "images/Pasted image 20250610165423.png",
-    "images/Pasted image 20250609173443.png",
-    "images/Pasted image 20250103055308.png",
     "Учёба/Магистратура/2 курс/Управление проектами",
     "Учёба/Магистратура/2 курс",
     "Базы данных/NoSQL/MongoDB",
     "Базы данных/NoSQL",
     "Базы данных/SQL",
     "Базы данных",
-    "images/Pasted image 20240609013144.png",
-    "images/Pasted image 20240609013101.png",
-    "images/Pasted image 20240609012425.png",
-    "images/Pasted image 20240609012412.png",
-    "images/Pasted image 20240609011814.png",
-    "images/Pasted image 20240605012232.png",
-    "images/Pasted image 20240605012018.png",
     "images/~$Инфографика - практика 01.pptx",
     "images/Инфографика - практика 01.pptx",
     "Учёба/Магистратура/1 курс/Инфографика",
