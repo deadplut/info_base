@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Python/Процесс.md",
+                "file": "Языки/Python/Сопрограммы.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Процесс"
+              "title": "Сопрограммы"
             }
           }
         ],
@@ -101,8 +101,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,7 +181,7 @@
   },
   "active": "bc146c8e7b30f3de",
   "lastOpenFiles": [
-    "Необработанное/Что такое GIL.md",
+    "Языки/Python/Что такое GIL.md",
     "Языки/Python/Процесс.md",
     "Языки/Python/Поток.md",
     "Языки/Python/Конкурентность.md",
