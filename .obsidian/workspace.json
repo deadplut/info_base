@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Python/WSGI.md",
+                "file": "Необработанное/Ответы.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "WSGI"
+              "title": "Ответы"
             }
           }
         ],
@@ -196,8 +196,8 @@
   },
   "active": "269496bec31eec76",
   "lastOpenFiles": [
-    "Языки/Python/Сопрограммы.md",
     "Языки/Python/WSGI.md",
+    "Языки/Python/Сопрограммы.md",
     "Языки/Python/Что такое GIL.md",
     "Языки/Python/Процесс.md",
     "Языки/Python/Поток.md",
