@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Общие понятия/ООП/Абстракция.md",
+                "file": "Языки/Python/Strings.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Абстракция"
+              "title": "Strings"
             }
           }
         ]
@@ -156,6 +156,9 @@
   },
   "active": "bbe01affe03f15ec",
   "lastOpenFiles": [
+    "Языки/Python/Списки.md",
+    "Языки/Python/Встроенные последовательности.md",
+    "Общие понятия/ООП/Абстракция.md",
     "Языки/Python/Объект в Python.md",
     "Языки/Python/Оператор сравнения и _is_.md",
     "Языки/Python/Имена переменные.md",
@@ -167,8 +170,6 @@
     "Необработанное/Тест гит.md",
     "Необработанное/String - строки.md",
     "Языки/Python/Кортежи.md",
-    "Языки/Python/Встроенные последовательности.md",
-    "Языки/Python/Списки.md",
     "Языки/Python/Итерируемый объект.md",
     "Языки/Python/Конкурентность.md",
     "Языки/Python/Копирования объектов.md",
@@ -181,7 +182,6 @@
     "Языки/Python/String - строки.md",
     "Языки/Python/Массив последовательностей.md",
     "Языки/Python/Генераторные функции.md",
-    "Языки/Python/Аннотация типов.md",
     "images/Pasted image 20231101002700.png",
     "images/Pasted image 20231101015300.png",
     "images/Pasted image 20231106142745.png",
