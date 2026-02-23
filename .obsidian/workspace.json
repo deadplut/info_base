@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "294def049b00fb8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Языки/Python/yield.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "yield"
-            }
-          },
-          {
             "id": "bc146c8e7b30f3de",
             "type": "leaf",
             "state": {
@@ -36,24 +21,8 @@
               "icon": "lucide-file",
               "title": "Генераторные функции"
             }
-          },
-          {
-            "id": "269496bec31eec76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Языки/Python/Массив последовательностей.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Массив последовательностей"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,16 +63,6 @@
               },
               "icon": "lucide-search",
               "title": "Поиск"
-            }
-          },
-          {
-            "id": "d8be71a69f23d1b3",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
             }
           },
           {
@@ -183,6 +142,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
@@ -194,16 +154,22 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "d20db937a81f6ad1",
+  "active": "bc146c8e7b30f3de",
   "lastOpenFiles": [
+    "Языки/Python/Аннотация типов.md",
+    "Языки/Python/Анонимная функция lambda.md",
+    "Языки/Python/Аргументы функции.md",
+    "Необработанное/Тест гит.md",
+    "Языки/Python/yield.md",
+    "Языки/Python/Генераторные функции.md",
+    "Языки/Python/Массив последовательностей.md",
+    "Необработанное/YAML - Не язык разметки.md",
+    "Необработанное/Ответы.md",
     "Языки/Python/Сопрограммы.md",
     "Языки/Python/Блокировка (Lock).md",
-    "Языки/Python/yield.md",
     "Языки/Python/Вызываемые объекты.md",
     "Языки/Python/Конкурентность.md",
     "Языки/Python/Поток.md",
-    "Языки/Python/Массив последовательностей.md",
-    "Необработанное/Ответы.md",
     "Языки/Python/WSGI.md",
     "Языки/Python/Что такое GIL.md",
     "Языки/Python/Процесс.md",
@@ -212,12 +178,10 @@
     "Языки/Python/Генераторы.md",
     "Языки/Python/Генераторные выражения.md",
     "Языки/Python/Генераторные функции и выражения.md",
-    "Языки/Python/Генераторные функции.md",
     "Языки/Python/Итерируемый объект.md",
     "Языки/Python/Итераторы.md",
     "Языки/Python/Встроенная функция iter.md",
     "Языки/Python/Итерация.md",
-    "Языки/Python/Объект в Python.md",
     "images/Pasted image 20231101002700.png",
     "images/Pasted image 20231101015300.png",
     "images/Pasted image 20231106142745.png",
@@ -228,10 +192,6 @@
     "images/Pasted image 20240527195447.png",
     "images/Pasted image 20240528231117.png",
     "images/Pasted image 20240601171752.png",
-    "Языки/Python/Декораторы.md",
-    "Языки/Python/Области видимости переменых.md",
-    "Языки/Python/Замыкания.md",
-    "Языки/Python/nonlocal.md",
     "Без названия",
     "Учёба/Магистратура/2 курс/Управление проектами",
     "Учёба/Магистратура/2 курс",
