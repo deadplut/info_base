@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Python/Имена переменные.md",
+                "file": "Общие понятия/ООП/Абстракция.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Имена переменные"
+              "title": "Абстракция"
             }
           }
         ]
@@ -156,8 +156,10 @@
   },
   "active": "bbe01affe03f15ec",
   "lastOpenFiles": [
-    "Языки/Python/Динамическая типизация.md",
     "Языки/Python/Объект в Python.md",
+    "Языки/Python/Оператор сравнения и _is_.md",
+    "Языки/Python/Имена переменные.md",
+    "Языки/Python/Динамическая типизация.md",
     "Языки/Python/Булевские значения.md",
     "Языки/Python/Множества.md",
     "Языки/Python/Типы данных.md",
@@ -171,14 +173,12 @@
     "Языки/Python/Конкурентность.md",
     "Языки/Python/Копирования объектов.md",
     "Языки/Python/Косвенные функции.md",
-    "Языки/Python/Оператор сравнения и _is_.md",
     "Языки/Python/Очередь.md",
     "Языки/Python/Списковое включение.md",
     "Языки/Python/bytearray - тип данных.md",
     "Языки/Python/Bytes - тип данных.md",
     "Языки/Python/global.md",
     "Языки/Python/String - строки.md",
-    "Языки/Python/Имена переменные.md",
     "Языки/Python/Массив последовательностей.md",
     "Языки/Python/Генераторные функции.md",
     "Языки/Python/Аннотация типов.md",
