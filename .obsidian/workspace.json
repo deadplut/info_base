@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "06b737fb0f8ac36a",
+        "id": "bea35c8060d3307e",
         "type": "tabs",
         "children": [
           {
-            "id": "108891886501335b",
+            "id": "bbe01affe03f15ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Python/Типы данных.md",
+                "file": "Языки/Python/Имена переменные.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Типы данных"
+              "title": "Имена переменные"
             }
           }
         ]
@@ -154,8 +154,16 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "108891886501335b",
+  "active": "bbe01affe03f15ec",
   "lastOpenFiles": [
+    "Языки/Python/Динамическая типизация.md",
+    "Языки/Python/Объект в Python.md",
+    "Языки/Python/Булевские значения.md",
+    "Языки/Python/Множества.md",
+    "Языки/Python/Типы данных.md",
+    "Языки/Python/Strings.md",
+    "Необработанное/Тест гит.md",
+    "Необработанное/String - строки.md",
     "Языки/Python/Кортежи.md",
     "Языки/Python/Встроенные последовательности.md",
     "Языки/Python/Списки.md",
@@ -166,8 +174,6 @@
     "Языки/Python/Оператор сравнения и _is_.md",
     "Языки/Python/Очередь.md",
     "Языки/Python/Списковое включение.md",
-    "Языки/Python/Типы данных.md",
-    "Языки/Python/Strings.md",
     "Языки/Python/bytearray - тип данных.md",
     "Языки/Python/Bytes - тип данных.md",
     "Языки/Python/global.md",
@@ -176,12 +182,6 @@
     "Языки/Python/Массив последовательностей.md",
     "Языки/Python/Генераторные функции.md",
     "Языки/Python/Аннотация типов.md",
-    "Языки/Python/Анонимная функция lambda.md",
-    "Языки/Python/Аргументы функции.md",
-    "Необработанное/Тест гит.md",
-    "Языки/Python/yield.md",
-    "Необработанное/YAML - Не язык разметки.md",
-    "Необработанное/Ответы.md",
     "images/Pasted image 20231101002700.png",
     "images/Pasted image 20231101015300.png",
     "images/Pasted image 20231106142745.png",
