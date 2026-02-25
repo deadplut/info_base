@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Python/Strings.md",
+                "file": "Языки/Python/Списки.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Strings"
+              "title": "Списки"
             }
           }
         ]
@@ -156,6 +156,7 @@
   },
   "active": "bbe01affe03f15ec",
   "lastOpenFiles": [
+    "Языки/Python/Strings.md",
     "Языки/Python/Списки.md",
     "Языки/Python/Встроенные последовательности.md",
     "Общие понятия/ООП/Абстракция.md",
@@ -166,7 +167,6 @@
     "Языки/Python/Булевские значения.md",
     "Языки/Python/Множества.md",
     "Языки/Python/Типы данных.md",
-    "Языки/Python/Strings.md",
     "Необработанное/Тест гит.md",
     "Необработанное/String - строки.md",
     "Языки/Python/Кортежи.md",
