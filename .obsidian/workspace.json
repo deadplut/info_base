@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Python/Словари.md",
+                "file": "Языки/Python/Кортежи - tuple.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Словари"
+              "title": "Кортежи - tuple"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "хэш",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,8 +156,8 @@
   },
   "active": "bbe01affe03f15ec",
   "lastOpenFiles": [
-    "Необработанное/Хэш-таблицы.md",
     "Языки/Python/Словари.md",
+    "Необработанное/Хэш-таблицы.md",
     "Языки/Python/Списки.md",
     "Языки/Python/Strings.md",
     "Языки/Python/Встроенные последовательности.md",
@@ -172,7 +171,7 @@
     "Языки/Python/Типы данных.md",
     "Необработанное/Тест гит.md",
     "Необработанное/String - строки.md",
-    "Языки/Python/Кортежи.md",
+    "Языки/Python/Кортежи - tuple.md",
     "Языки/Python/Итерируемый объект.md",
     "Языки/Python/Конкурентность.md",
     "Языки/Python/Копирования объектов.md",
