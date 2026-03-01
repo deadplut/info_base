@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Python/Файлы.md",
+                "file": "Языки/Python/Типы данных.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Файлы"
+              "title": "Типы данных"
             }
           },
           {
@@ -187,14 +187,16 @@
   },
   "active": "991f42e5b830c00d",
   "lastOpenFiles": [
-    "Языки/Python/Кортежи - tuple.md",
-    "Языки/Python/Файлы.md",
-    "Языки/Python/Хэш-таблицы.md",
+    "Языки/Python/Коллекция.md",
     "Языки/Python/Типы данных.md",
-    "Языки/Python/Словари.md",
-    "Языки/Python/Списки.md",
-    "Языки/Python/Strings.md",
     "Языки/Python/Встроенные последовательности.md",
+    "Языки/Python/Списки.md",
+    "Языки/Python/Bytes - тип данных.md",
+    "Языки/Python/Файлы.md",
+    "Языки/Python/Кортежи - tuple.md",
+    "Языки/Python/Хэш-таблицы.md",
+    "Языки/Python/Словари.md",
+    "Языки/Python/Strings.md",
     "Общие понятия/ООП/Абстракция.md",
     "Языки/Python/Объект в Python.md",
     "Языки/Python/Оператор сравнения и _is_.md",
@@ -211,8 +213,6 @@
     "Языки/Python/Очередь.md",
     "Языки/Python/Списковое включение.md",
     "Языки/Python/bytearray - тип данных.md",
-    "Языки/Python/Bytes - тип данных.md",
-    "Языки/Python/global.md",
     "images/Pasted image 20231101002700.png",
     "images/Pasted image 20231101015300.png",
     "images/Pasted image 20231106142745.png",
