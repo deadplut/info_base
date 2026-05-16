@@ -28,17 +28,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки/Python/Операторы присваивания.md",
+                "file": "Языки/Python/nonlocal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Операторы присваивания"
+              "title": "nonlocal"
+            }
+          },
+          {
+            "id": "c228e7cbc674b188",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.12.4"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nonlocal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +103,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,10 +183,12 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "2b01185a48385150",
+  "active": "c228e7cbc674b188",
   "lastOpenFiles": [
-    "Языки/Python/Имена переменные.md",
+    "Языки/Python/Области видимости переменых.md",
+    "Языки/Python/Замыкания.md",
     "Языки/Python/Операторы присваивания.md",
+    "Языки/Python/Имена переменные.md",
     "Языки/Python/Операторы.md",
     "Языки/Python/Оператор сравнения и _is_.md",
     "Языки/Python/Кортежи - tuple.md",
@@ -196,8 +211,6 @@
     "Необработанное/Тест гит.md",
     "Необработанное/String - строки.md",
     "Языки/Python/Итерируемый объект.md",
-    "Языки/Python/Конкурентность.md",
-    "Языки/Python/Копирования объектов.md",
     "images/Pasted image 20231101002700.png",
     "images/Pasted image 20231101015300.png",
     "images/Pasted image 20231106142745.png",
