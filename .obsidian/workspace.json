@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "Явление 14"
             }
+          },
+          {
+            "id": "17d42e0de1953448",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +167,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "601e3403d8c392f7",
+  "active": "17d42e0de1953448",
   "lastOpenFiles": [
     "Актерское мастерство/Беда от нежного сердца/Явление 13.md",
     "Актерское мастерство/Беда от нежного сердца/Явление 14.md",
